@@ -1,0 +1,12 @@
+name: Dictionary Search
+description: Look up a word in the dictionary
+author: tsaxena
+matches:
+  - dict
+  - mean
+  - di
+  - s
+home: https://www.dictionary.com/
+searchUrl: https://www.dictionary.com/browse/
+examples:
+  - fact
